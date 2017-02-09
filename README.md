@@ -1,2 +1,2 @@
-# hello-world
-hello-world-repo
+Hi,
+This is my first hello world sample in new brach
